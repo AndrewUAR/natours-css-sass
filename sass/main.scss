@@ -10,10 +10,12 @@
 
 
 @import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
 
+@import "layout/grid";
 @import "layout/header";
 
 @import "pages/home";
 
-
-/* if button is a link, we should add sudo class link, link is a state of button selector */
